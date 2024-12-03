@@ -171,5 +171,9 @@ header, body{
   text-align: right;
 }
 .xn{
+<<<<<<< HEAD
 
+=======
+  transform: translateX(815px);
+>>>>>>> 778ecdad2440e10b9afe08275562d4a7070d8282
 }
